@@ -10,7 +10,7 @@
          }
          stage("test") {
              steps{
-                 echo 'testing app'
+                 echo 'testing appa2'
              }
          }
          stage("deploy") {
