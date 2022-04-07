@@ -18,7 +18,7 @@
          }
          stage("deploy") {
              steps{
-                 echo 'deploying app2'
+                 echo 'deploying app2ss'
              }
          }
      }
